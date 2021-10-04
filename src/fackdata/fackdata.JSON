@@ -1,0 +1,46 @@
+[
+    {
+        "id": "01",
+        "name": "The Complete SEO Training In One Course",
+        "ratting": "3.5",
+        "desc": "SEO Training (Search Engine Optimization) Learn how to get your website to the top of Google's search results. This interactive short course will show you how your website's content, mobile optimization, and usability can all help you improve your site's overall performance. Learn how to create an SEO strategy and track its effectiveness over time.",
+        "lessons": "12",
+        "img": "https://www.reliablecounter.com/blog/wp-content/uploads/2018/06/seo.png",
+        "price": "220",
+        "student": "120",
+        "overView": "Earning connections to your website from other authoritative sources is a vital ranking component that can help you appear higher in search results for keywords and phrases related to your business. External links are the most crucial source of ranking power, according to SEO professionals, because search engines see them as third-party votes for your website.  Do outbound links from your own website, on the other hand, have an impact on SEO? According to a recent study by marketing agency Reboot, there is a link between a page's outbound links and its search results rankings. Google can identify the authority of a page or website based on the sources it connects to, according to Reboot."
+    },
+    {
+        "id": "02",
+        "name": "Learn basic javascript from start for beginner",
+        "ratting": "5",
+        "desc": "Lorem ipsum gravida nibh vel velit auctor aliquetn sollicitudirem quibibendum auci elit cons equat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus .",
+        "lessons": "32",
+        "price": "250",
+        "img": "https://miro.medium.com/max/1400/1*LyZcwuLWv2FArOumCxobpA.png",
+        "student": "113",
+        "overView": "JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.g., having complex animations, clickable buttons, popup menus, etc.). ... Client-side JavaScript extends the core language by supplying objects to control a browser and its Document Object Model (DOM)."
+    },
+    {
+        "id": "03",
+        "name": "Web Design",
+        "ratting": "4.5",
+        "desc": "Web Design In Us - Quick And Easily Found At Asksly! Many Products. Easy Acces. Quick Results. Compare Products. Search and Discover. Find Easily. Types: Products Online, Instant Results, Big Variaty, 24/7 Accessible.",
+        "lessons": "32",
+        "price": "252",
+        "img": "https://www.jotform.com/blog/wp-content/uploads/2020/07/How-to-Become-a-Web-Designer-Your-Go-to-Guide-to-Kick-start-Your-Career-03-2.png",
+        "student": "123",
+        "overView": "Web designers plan, create and code internet sites and web pages, many of which combine text with sounds, pictures, graphics and video clips. A web designer is responsible for creating the design and layout of a website or web pages. ... producing sample sites."
+    },
+    {
+        "id": "04",
+        "name": "UI Design",
+        "ratting": "4.5",
+        "desc": "User interface (UI) design or user interface engineering is the design of user interfaces for machines and software, such as computers",
+        "lessons": "15",
+        "img": "https://binyte.com/wp-content/uploads/2019/10/UIUX-designing-1.jpg",
+        "price": "244",
+        "student": "243",
+        "overView": "User interface (UI) design or user interface engineering is the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximizing usability and the user experience. The goal of user interface design is to make the user's interaction as simple and efficient as possible, in terms of accomplishing user goals (user-centered design)."
+    }
+]
