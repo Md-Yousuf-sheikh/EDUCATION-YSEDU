@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
----------------------YSEDu.-----------------------
+---------------------YSEDU.-----------------------
 
 . Trining is given online through this website .
 . You can easily improve by taking a course form hear .

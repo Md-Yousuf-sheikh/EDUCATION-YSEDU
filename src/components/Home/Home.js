@@ -41,7 +41,7 @@ const Home = () => {
                         }
                     </div>
                 </div>
-                <button className="btn btn-outline-danger px-5 fw-bold py-2 mt-3 ">More Courses <i class="fas fa-angle-double-right"></i></button>
+                <Link to="/courses"><button className="btn btn-outline-danger px-5 fw-bold py-2 mt-3 ">More Courses <i class="fas fa-angle-double-right"></i></button></Link>
             </div>
 
         </div>
