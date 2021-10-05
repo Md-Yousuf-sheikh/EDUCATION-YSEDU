@@ -7,13 +7,13 @@ const Header = () => {
         <>
             <div className="top-header py-2">
                 <div className="row container mx-auto">
-                    <div className="col-6 info-link">
+                    <div className="col-md-6 info-link">
                         <div className="float-start">
                             <span className="text-light mx-2 "><i className="fas fa-envelope mx-2"></i> info@exmpole.com</span>
                             <span className="text-light mx-2"><i className="fas fa-phone-alt mx-2"></i> +0132-528-8569</span>
                         </div>
                     </div>
-                    <div className="col-6 text-light">
+                    <div className="col-md-6 text-light">
                         <div className="float-end">
                             <span><i class="fas fa-sign-in-alt text-danger"></i> Login</span> / <span>Register</span>
                         </div>

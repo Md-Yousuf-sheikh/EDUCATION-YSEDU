@@ -8,19 +8,24 @@ const Footer = () => {
             <div className="py-5 top-header text-light">
                 <div className="row container mx-auto">
                     <div className="col-4">
+                        <strong>COMPANY</strong><br />
                         <h1 className="text-light text-start"><span className="text-danger">YS</span><span>EDU.</span></h1>
                         <p className="text-start">Gravida nibh vel velit auctor aliquetn quibibendum auci elit cons equat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate.</p>
                     </div>
 
                     <div className="col-4 foot-nav ">
-                        <i class="fas fa-angle-right"></i><Link className="foot-link" to="/home">Home</Link>
-                        <i class="fas fa-angle-right"></i><Link className="foot-link" to="/courses">Courses</Link>
-                        <i class="fas fa-angle-right"></i><Link className="foot-link" to="/teachers">Techers</Link>
-                        <i class="fas fa-angle-right"></i><Link className="foot-link" to="/about">About</Link>
+                        <strong>SERVICE</strong><br />
+                        <div className="mt-5">
+                            <i class="fas fa-angle-right"></i><Link className="foot-link" to="/home">Home</Link>
+                            <i class="fas fa-angle-right"></i><Link className="foot-link" to="/courses">Courses</Link>
+                            <i class="fas fa-angle-right"></i><Link className="foot-link" to="/teachers">Techers</Link>
+                            <i class="fas fa-angle-right"></i><Link className="foot-link" to="/about">About</Link>
+                        </div>
                     </div>
 
                     <div className="col-4">
-                        <div class="template-demo">
+                        <strong className="">SOCAL MEDIA</strong><br />
+                        <div class="template-demo mt-5">
                             <button type="button" class="btn btn-social-icon btn-facebook btn-rounded"><i class="fab fa-facebook-square"></i></button>
                             <button type="button" class="btn btn-social-icon btn-twitter btn-rounded"><i class="fab fa-twitter-square"></i></button>
                             <button type="button" class="btn btn-social-icon btn-dribbble btn-rounded"><i class="fab fa-dribbble-square"></i></button>
